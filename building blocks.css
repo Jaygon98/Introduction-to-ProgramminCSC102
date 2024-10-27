@@ -1,0 +1,35 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: rgb(188, 209, 69);
+    text-align: center;
+    padding: 20px;
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+
+#playButton {
+    background-color: rgb(219, 241, 241);
+    color: brown;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: large;
+    cursor: pointer;
+}
+
+
+#playButton:hover {
+    background-color: rgb(98, 172, 241);
+}
+
+
+#result {
+    font-size: 25px;
+    margin-top: 20px;
+}
